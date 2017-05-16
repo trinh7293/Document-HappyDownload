@@ -1,0 +1,40 @@
+Old version:
+1. Giới thiệu về trang web:
+    - Mục tiêu hướng đến: Những người muốn bán sản phẩm số (vector, code, 
+    audio, ...)
+    - Thời gian hoàn thành dự kiến: 7-10 ngày working days.
+2. Các chức năng:
+    - Đối với người chưa đăng nhập:
+        - Cho phép đăng ký, đăng nhập
+        - Có thể xem, preview sản phẩm
+        - Tìm kiếm những sản phẩm theom category và giá hoặc sản phẩm bán chạy
+- Xem profile, feedback, lịch sử giao dịch cuả người bán => em nghĩ cái này nên cho đối với user đăng nhập
+- Đối với user:
+    Ngoài những chức năng trên còn có:
+    
+    - Chỉnh sửa profile.
+
+- Tạo sản phẩm để bán trong đó: cho phép chỉnh sửa tên sản phẩm, hình
+    ảnh, link preview, upload, chọn danh mục sản phẩm, quản lý , thêm sửa,
+    xóa, định giá sản phẩm, thống kê giao dịch, có trang seller page. => Trung quy lại là edit sản phẩm.
+=> Đã có seller page thì phải có quản lý seller page
+
+
+    - Mua sản phẩm của user khác:
+Việc thanh toán được tiến hành qua Paypal, nếu giao dịch thành
+công, nguời mua sẽ nhận được link download => giao dịch thành công phải lưu lại được những gì liên quan đến giao dịch như tiền, chi phí bỏ ra. số sản phầm, .... và sao chép và db của mình., và link này còn
+thêm vào mục My Order của user để tiện tra cứu.
+=> My order sẽ gồm là các order đã , đang và đã thanh toán
+Sau khi mua xong, user có quyền feedback và rating sản phẩm.
+Là kiểu bán hàng nhiều ngươi dùng thì em nghĩ nên có report user hoặc sản phẩm để admin quản lý và thanh lọc nhưng user xấu.
+
+
+- Ngoài ra user còn có thể thêm sản phẩm vào danh sách yêu thích.
+- Phải có kiếm duyệt các đơn đặt hàng mà người dùng khác mua sản phẩm của mình.
+
+- Đối với Admin:
+    - Xem thêm sửa xóa tất cả các user
+    - Xem và xóa sản phẩm 
+=> đối với admin và user. đã là app mua bán nó liên quan đến tiền. admin và user phải thống kê được thu nhập cũng như những gì liên quan đến tiền mà user đó mất hoặc kiếm được
+
+=> Notification (activity) khi user khác mua sản phẩm, rating sản phẩm

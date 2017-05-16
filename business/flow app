@@ -1,0 +1,15 @@
+Workflow quản lý sản phẩm của mình : 
+user vào mục manage produts để thêm sửa xóa sản phẩm của mình 
+
+
+Workflow mua sản phẩm :
+1. User vào xem list sản phẩm để chọn 
+2. User click vào nút mua sản phẩm, sản phẩm được thêm vào giỏ hàng 
+3. Trong giỏ hàng, có thể xóa bớt sản phẩm đã thêm vào 
+4. Khi muốn thanh toán click vào nút thanh toán hiện trong giỏ hàng 
+5. Sản phẩm khi thanh toán xong sẽ được list vào lịch sử mua hàng và có thể download được bằng cách vào lịch sử mua hàng, với mỗi sản phẩm sẽ có nút thanh toán
+
+Workflow rating sản phẩm :
+1. User click vào xem chi tiết một mặt hàng 
+2. User đưa ra đánh giá và đánh star cho mặt hàng đó 
+3. nhận xét kèm theo star đánh giá sẽ được list vào dưới sản phẩm 

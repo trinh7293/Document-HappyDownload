@@ -1,0 +1,21 @@
+Các chức năng:
+- Đối với người chưa đăng nhập:
+  - Cho phép đăng ký, đăng nhập
+  - Có thể xem, preview sản phẩm
+  - Tìm kiếm những sản phẩm theo category và người bán
+- Đối với user:
+    Ngoài những chức năng trên còn có:
+    - Rating sản phẩm 
+    - Tạo sản phẩm để bán trong đó: cho phép chỉnh sửa tên sản phẩm, hình
+           ảnh, link preview, upload, chọn danh mục sản phẩm,định giá sản phẩm.
+    - Quản lý sản phẩm.
+    - Mua sản phẩm của user khác:
+    - feedback và rating sản phẩm.
+    - Nhận notification (activity) khi user khác mua sản phẩm, rating sản phẩm của mình 
+    - thêm sản phẩm vào danh sách yêu thích.
+- Đối với Admin:
+    - Xem thêm sửa xóa tất cả các user
+    - Xem và xóa sản phẩm
+
+ghi chú :
+Việc thanh toán được tiến hành qua api của một kênh thanh toán nào đó, nếu giao dịch thành công, lịch sử mua của người mua và lịch sử bán của người bán sẽ được cập nhật tương ứng với các sản phẩm trong hóa đơn , trong lịch sử mua (my buy) của người mua sẽ có nút download sản phẩm 
