@@ -1,0 +1,24 @@
+- kế hoạch từ 16/5 - 19/5 năm 2017 (tuần 1)
+	+ tạo framgia ci
+	+ làm header của template có chứa nút signup, login, tạo 2 form sign-up, login và tạo chức năng tương ứng trong controller.
+	+. tạo trang manage product cho user đã đăng nhập để thêm sửa xóa sản phẩm của mình (cái này là sản phẩm đem đi bán)
+	+ Vaò cuối tuần 19/5 sẽ present tiến độ  
+
+- kế hoạch từ 22/5 - 26/5 (tuần 2)
+	+ làm trang home list tất cả các sản phẩm từ gần đây nhất. 
+	+ Làm giỏ hàng
+	+ làm chức năng thanh toán 
+	+ Tạo 2 trang my sells và my buys để list ra các sản phẩm mà user đã bán và đã mua tương ứng
+
+- kế hoạch từ  29/5 - 2/6 (tuần 3)
+	+ Tạo chức năng feedback 
+	+ Tạo wishlist 
+	+ Tạo chức năng notification 
+
+
+-kế hoạch từ 5/6 - 9/6 (tuần 4)
+	+ Tạo chức năng tìm kiếm (theo tên, người bán, category)
+	+ Tạo chức năng thống kê mua bán (hàng bán chạy nhất, v...)
+
+-kế hoạch từ 12/6 - 15/6
+	+ fix bug và demo project 
