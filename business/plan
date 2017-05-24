@@ -6,19 +6,16 @@
 
 - kế hoạch từ 22/5 - 26/5 (tuần 2)
 	+ làm trang home list tất cả các sản phẩm từ gần đây nhất. 
-	+ Làm giỏ hàng
-	+ làm chức năng thanh toán 
+	+ Tạo chức năng feedback,rating
+	+ làm chức năng thanh toán
 	+ Tạo 2 trang my sells và my buys để list ra các sản phẩm mà user đã bán và đã mua tương ứng
 
 - kế hoạch từ  29/5 - 2/6 (tuần 3)
-	+ Tạo chức năng feedback 
+	+ Làm giỏ hàng
 	+ Tạo wishlist 
 	+ Tạo chức năng notification 
-
+	+ Tạo chức năng thống kê mua bán (hàng bán chạy nhất, v...)
 
 -kế hoạch từ 5/6 - 9/6 (tuần 4)
 	+ Tạo chức năng tìm kiếm (theo tên, người bán, category)
-	+ Tạo chức năng thống kê mua bán (hàng bán chạy nhất, v...)
-
--kế hoạch từ 12/6 - 15/6
-	+ fix bug và demo project 
+	+ fix bug và demo project
