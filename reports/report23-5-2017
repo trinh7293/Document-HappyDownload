@@ -1,0 +1,8 @@
+Report ngày 23/5/2017
+- Bọn mình đã làm xong thêm sửa xóa sản phẩm.
+- THêm chức năng rating star và feedback cho sản phẩm, đang sửa lỗi và convention để gửi pull về phần này.  
+
+Plan ngày 24/5/2017
+- Trịnh hoàn thành star và feedback cho sản phẩm (gồm 3 pull), 
+- Giang sẽ bắt đầu Nghiên cứu về chức năng thanh toán
+- Về phần giỏ hàng bọn mình sẽ để nghiên cứu sau phần thanh toán vì thanh toán trong một giỏ hàng là giữa một người mua và nhiều người bán, nên Giang sẽ nghiên cứu về thanh toán giữa 1 người mua và 1 người bán trước khi làm giỏ hàng để đỡ phức tạp, khi thành công sẽ nghiên cứu làm giỏ hàng tiếp .
