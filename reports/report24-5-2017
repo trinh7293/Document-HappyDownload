@@ -1,5 +1,6 @@
-+ Report ngày 23/5/2017:
++ Report ngày 24/5/2017:
  Giang: đã làm xong chức năng order cơ bản (chưa accept payment), sau khi order thành công, sản phẩm sẽ được cập nhật tại trang My Purchases cuả người mua gồm các mục: Tên sản phẩm, đường link download sản phẩm, tên người bán, ngày mua, đồng thời cũng cập nhật thống kê tại trang My Sales của người bán. 
-
-+ Plan ngày 24/5/2017
- Giang: Tối nay sẽ cố gắng hoàn thiện chức năng thanh toán bằng thẻ VISA.
+ Trịnh : hoàn thành được 2 pull của chức năng feed back rating 
++ Plan ngày 25/5/2017
+ Giang: Sẽ cố gắng hoàn thiện chức năng thanh toán bằng thẻ VISA.
+ Trịnh: hoàn thành được 3 pull của chức năng feed back rating và làm thêm chức năng notification 
