@@ -1,8 +1,5 @@
-Report ngày 23/5/2017
-- Bọn mình đã làm xong thêm sửa xóa sản phẩm.
-- THêm chức năng rating star và feedback cho sản phẩm, đang sửa lỗi và convention để gửi pull về phần này.  
++ Report ngày 23/5/2017:
+ Giang: đã làm xong chức năng order cơ bản (chưa accept payment), sau khi order thành công, sản phẩm sẽ được cập nhật tại trang My Purchases cuả người mua gồm các mục: Tên sản phẩm, đường link download sản phẩm, tên người bán, ngày mua, đồng thời cũng cập nhật thống kê tại trang My Sales của người bán. 
 
-Plan ngày 24/5/2017
-- Trịnh hoàn thành star và feedback cho sản phẩm (gồm 3 pull), 
-- Giang sẽ bắt đầu Nghiên cứu về chức năng thanh toán
-- Về phần giỏ hàng bọn mình sẽ để nghiên cứu sau phần thanh toán vì thanh toán trong một giỏ hàng là giữa một người mua và nhiều người bán, nên Giang sẽ nghiên cứu về thanh toán giữa 1 người mua và 1 người bán trước khi làm giỏ hàng để đỡ phức tạp, khi thành công sẽ nghiên cứu làm giỏ hàng tiếp .
++ Plan ngày 24/5/2017
+ Giang: Tối nay sẽ cố gắng hoàn thiện chức năng thanh toán bằng thẻ VISA.
