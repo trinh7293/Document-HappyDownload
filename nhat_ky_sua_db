@@ -1,4 +1,5 @@
 ngày 24/5/2017 
 Tạo 4 bảng cho rating bằng ratyrate average_caches, overall_averages, rates, rating_caches
 cho chức năng rating
-
+ngày 25/5/2017
+Thêm column recipient vào table users để chuyển tiền cho người bán
